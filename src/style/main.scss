@@ -1,0 +1,16 @@
+@import 'Dashboard';
+@import 'Layout';
+@import 'Navbar';
+@import 'Sidebar';
+@import 'Separator';
+
+p {
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
