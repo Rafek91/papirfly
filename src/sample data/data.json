@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "logo":"",
+        "name":"BMW",
+        "com_id":"",
+        "status":"ACTIVE",
+        "enabled":true,
+        "lae_id":1
+    },
+    {
+        "id":2,
+        "logo":"",
+        "name":"Mercedes",
+        "com_id":"",
+        "status":"ACTIVE",
+        "enabled":true,
+        "lae_id":1
+    },
+    {
+        "id":4,
+        "logo":"",
+        "name":"Mercedes",
+        "com_id":"",
+        "status":"ACTIVE",
+        "enabled":true,
+        "lae_id":1
+    }
+]

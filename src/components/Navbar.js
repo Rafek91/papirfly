@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div className="navbar-container">
             <p>
-                Navbar
+                Site Admin
             </p>
         </div>
     );
