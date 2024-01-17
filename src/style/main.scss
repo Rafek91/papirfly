@@ -4,9 +4,10 @@
 @import 'Sidebar';
 @import 'Separator';
 
-p {
+p,span,h1 {
     font-size: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
 }
 
 .app-container {

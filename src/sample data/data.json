@@ -1,7 +1,9 @@
 [
     {
         "id":1,
-        "logo":"",
+        "logo":"/images/bmw.png",
+        "widht":"24",
+        "height":"24",
         "name":"BMW",
         "com_id":"",
         "status":"ACTIVE",
@@ -10,20 +12,35 @@
     },
     {
         "id":2,
-        "logo":"",
+        "logo":"/images/mb.png",
+        "widht":"24",
+        "height":"24",
         "name":"Mercedes",
         "com_id":"",
         "status":"ACTIVE",
         "enabled":true,
-        "lae_id":1
+        "lae_id":225
+    },
+    {
+        "id":3,
+        "logo":"/images/hh.jpg",
+        "widht":"24",
+        "height":"16",
+        "name":"Helly Hansen",
+        "com_id":"",
+        "status":"ACTIVE",
+        "enabled":true,
+        "lae_id":4654
     },
     {
         "id":4,
-        "logo":"",
-        "name":"Mercedes",
+        "logo":"/images/cc.jpg",
+        "widht":"8",
+        "height":"20",
+        "name":"Coca-Cola",
         "com_id":"",
         "status":"ACTIVE",
         "enabled":true,
-        "lae_id":1
+        "lae_id":23
     }
 ]

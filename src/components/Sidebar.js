@@ -9,21 +9,21 @@ const Sidebar = () => {
     return (
         <div className="sidebar-container">
             <div className="sidebar-content">
-                <p>
+                <span className="sidebar-nav-name">
                     SITE ADMIN
-                </p>
+                </span>
                 <ul className="sidebar-nav">
                     <li className="nav-item">
                         <img src={FileAddIcon} alt="" className="icon" />
-                        <span className="nav-item-text">option 1</span>
+                        <span className="nav-item-text">Customer overview</span>
                     </li>
                     <li className="nav-item">
-                        <img src={FileDot} alt="" />
-                        <span className="nav-item-text">option 2</span>
+                        <img src={FileDot} alt="" className="icon"/>
+                        <span className="nav-item-text">Reports</span>
                     </li>
                     <li className="nav-item">
-                        <img src={Notification} alt="" />
-                        <span className="nav-item-text">option 3</span>
+                        <img src={Notification} alt="" className="icon"/>
+                        <span className="nav-item-text">File transcodings</span>
                     </li>
                 </ul>
             </div>
